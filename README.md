@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Ricardo
+## 👋 Olá, eu sou o Ricardo!
 
 Sou formado em **Engenharia da Computação** com **pós-graduação em Engenharia de Software**.  
 Atualmente não atuo profissionalmente como desenvolvedor, mas desenvolvo **projetos próprios para estudo**, com foco em boas práticas, organização de código e arquitetura.
@@ -42,4 +42,5 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software e cons
 ### 📫 Contato
 
 - GitHub: [github.com/ricardoabicalhob](https://github.com/ricardoabicalhob)
+
 
